@@ -295,11 +295,11 @@ flutter build ios --release
 ## 📞 Support & Contact
 
 **Développeur principal:** Olivier Bertsrand  
-**Entreprise:** Da Vinci Nova Corp  
+**Entreprise:** DaVinci Nova Corp  
 **Financement:** CNRC
 
 ---
 
 **Status projet:** 🟡 En développement actif  
 **Version:** 1.0.0 (MVP)  
-**Dernière mise à jour:** Novembre 2024
+**Dernière mise à jour:** Novembre 2025
